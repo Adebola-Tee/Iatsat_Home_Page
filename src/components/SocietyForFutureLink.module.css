@@ -1,0 +1,633 @@
+.sveIcon4png {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading5 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.globalSocietyVedasLink,
+.societyForGirlsLink {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.societyForGirlsLink {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-8xs) 0 0;
+  box-sizing: border-box;
+  min-width: 215px;
+}
+.globalSocietyVedasLink {
+  width: 418px;
+  flex-direction: row;
+  gap: var(--gap-3xl);
+}
+.blankLine,
+.blankLine1,
+.blankLine2,
+.weAreCommitted {
+  margin: 0;
+}
+.weAreCommittedContainer {
+  align-self: stretch;
+  height: 48px;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.backgroundshadow {
+  flex: 1;
+  box-shadow: 0 4.4px 20px -1px rgba(19, 16, 34, 0.05);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-24xl) var(--padding-xl) var(--padding-98xl)
+    var(--padding-6xl);
+  box-sizing: border-box;
+  gap: var(--gap-lgi);
+  min-width: 416px;
+  max-width: 100%;
+  z-index: 2;
+}
+.sveIcon4png1 {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading51 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 38px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.heading5EduSmartWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-end;
+  padding: 0 0 var(--padding-smi);
+  box-sizing: border-box;
+  min-width: 168px;
+}
+.sveIcon4pngParent {
+  width: 339.3px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-base-3);
+  max-width: 100%;
+}
+.atIatsatWe {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  color: var(--color-black);
+}
+.backgroundshadow1 {
+  flex: 1;
+  box-shadow: 0 4.4px 20px -1px rgba(19, 16, 34, 0.05);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-10xl) var(--padding-lgi-1) var(--padding-42xl)
+    var(--padding-11xl);
+  box-sizing: border-box;
+  gap: var(--gap-14xl);
+  min-width: 416px;
+  max-width: 100%;
+  z-index: 2;
+}
+.sveIcon4png2 {
+  height: 65px;
+  width: 65px;
+  position: relative;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.heading52 {
+  margin: 0;
+  align-self: stretch;
+  position: relative;
+  font-size: inherit;
+  line-height: 37.5px;
+  font-weight: 700;
+  font-family: inherit;
+}
+.heading5EduSmartContainer,
+.sveIcon4pngGroup {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+}
+.heading5EduSmartContainer {
+  flex: 1;
+  flex-direction: column;
+  padding: var(--padding-sm) 0 0;
+}
+.sveIcon4pngGroup {
+  width: 276.7px;
+  flex-direction: row;
+  gap: var(--gap-base-7);
+}
+.blankLine3,
+.iatsatIsPassionately {
+  margin: 0;
+}
+.iatsatIsPassionatelyContainer {
+  align-self: stretch;
+  position: relative;
+  font-size: var(--font-size-base);
+  line-height: 24px;
+  color: var(--color-black);
+}
+.backgroundshadow2,
+.societyOfPromotionLink {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.backgroundshadow2 {
+  flex: 1;
+  box-shadow: 0 4.4px 20px -1px rgba(19, 16, 34, 0.05);
+  border-radius: var(--br-5xs);
+  background-color: var(--color-white);
+  overflow: hidden;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-11xl) var(--padding-xl) var(--padding-smi)
+    var(--padding-11xl);
+  box-sizing: border-box;
+  gap: var(--gap-13xl);
+  min-width: 416px;
+  z-index: 2;
+}
+.societyOfPromotionLink {
+  align-self: stretch;
+  flex-direction: row;
+  flex-wrap: wrap;
+  align-items: flex-end;
+  gap: var(--gap-8xl);
+}
+.heading2 {
+  margin: 0;
+  align-self: stretch;
+  height: 168px;
+  position: relative;
+  font-size: inherit;
+  line-height: 65px;
+  font-weight: 700;
+  font-family: inherit;
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.vectorIcon {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.introductionToIatsat {
+  position: relative;
+  line-height: 28px;
+  z-index: 1;
+}
+.vectorParent {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: flex-start;
+  gap: var(--gap-24xl);
+}
+.vectorIcon1 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.frameParent1 {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  color: var(--color-darkblue);
+}
+.iatsatInternationalAccredit {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  max-width: 100%;
+}
+.iatsatInternationalAccreditWrapper {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 0 0 var(--padding-7xl);
+  box-sizing: border-box;
+  max-width: 100%;
+}
+.vectorIcon2 {
+  height: 16px;
+  width: 16px;
+  position: relative;
+}
+.socialImpactIn {
+  position: relative;
+  line-height: 28px;
+  z-index: 1;
+}
+.vectorGroup {
+  width: 245px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-end;
+  justify-content: space-between;
+  gap: var(--gap-xl);
+  color: var(--color-darkblue);
+}
+.frameParent2 {
+  width: 379px;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-mini-7);
+  max-width: 100%;
+}
+.iatsatStandsOut {
+  flex: 1;
+  position: relative;
+  line-height: 28px;
+  display: inline-block;
+  max-width: 100%;
+}
+.frameDiv,
+.iatsatStandsOutAsTheWorldWrapper {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.iatsatStandsOutAsTheWorldWrapper {
+  width: 405px;
+  flex-direction: row;
+  padding: 0 var(--padding-7xl);
+  box-sizing: border-box;
+}
+.frameDiv {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-7xl-4);
+  min-width: 296px;
+}
+.empoweringYouthFor {
+  position: relative;
+  line-height: 28px;
+  z-index: 1;
+}
+.universityInfoBox {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: 0 var(--padding-14xl);
+}
+.atIatsatWe1 {
+  align-self: stretch;
+  height: 80.2px;
+  position: relative;
+  line-height: 28px;
+  color: var(--color-black);
+  display: flex;
+  align-items: center;
+  flex-shrink: 0;
+}
+.empowermentButton,
+.frameContainer {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.empowermentButton {
+  width: 353px;
+  flex-direction: column;
+  gap: var(--gap-8xl);
+  min-width: 353px;
+  color: var(--color-darkblue);
+}
+.frameContainer {
+  align-self: stretch;
+  flex-direction: row;
+  gap: var(--gap-3xs);
+}
+.readMore {
+  position: relative;
+  font-size: var(--font-size-sm);
+  line-height: 20px;
+  font-weight: 500;
+  font-family: var(--font-inter);
+  color: var(--color-white);
+  text-align: center;
+  display: inline-block;
+  min-width: 72px;
+}
+.button {
+  cursor: pointer;
+  border: 0;
+  padding: var(--padding-mid) var(--padding-2xl-9) var(--padding-mid)
+    var(--padding-6xl);
+  background-color: var(--color-darkblue);
+  border-radius: var(--br-8xs);
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  white-space: nowrap;
+}
+.button:hover {
+  background-color: var(--color-mediumblue);
+}
+.awardBtnIconpng {
+  height: calc(100% - 12px);
+  width: 50px;
+  position: absolute;
+  margin: 0 !important;
+  top: 6px;
+  bottom: 6px;
+  left: -26px;
+  max-height: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+}
+.winningAward {
+  position: relative;
+  line-height: 24px;
+}
+.border,
+.readMoreButton {
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.border {
+  flex: 1;
+  border-radius: var(--br-8xs);
+  border: 1px solid var(--color-darkblue);
+  box-sizing: border-box;
+  padding: var(--padding-mid) var(--padding-21xl);
+  position: relative;
+  min-width: 154px;
+  white-space: nowrap;
+}
+.readMoreButton {
+  width: 499px;
+  gap: var(--gap-25xl-1);
+}
+.frameGroup {
+  flex: 1;
+  flex-direction: column;
+  gap: var(--gap-68xl-6);
+}
+.frameGroup,
+.frameWrapper,
+.heading2AFewWordsAboutParent {
+  display: flex;
+  align-items: flex-start;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameWrapper {
+  width: 867px;
+  flex-direction: row;
+  padding: 0 var(--padding-5xl);
+  box-sizing: border-box;
+  margin-top: -6px;
+  font-size: var(--font-size-base);
+  color: var(--color-black);
+}
+.heading2AFewWordsAboutParent {
+  flex: 1;
+  flex-direction: column;
+  min-width: 624px;
+}
+.aboutImg02pngIcon {
+  align-self: stretch;
+  height: 511px;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  flex-shrink: 0;
+  object-fit: cover;
+  z-index: 1;
+}
+.aboutImg02pngWrapper {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  align-items: flex-start;
+  justify-content: flex-start;
+  padding: var(--padding-63xl) 0 0;
+  box-sizing: border-box;
+  min-width: 247px;
+  max-width: 100%;
+}
+.aboutImg02pngIcon1 {
+  height: 511px;
+  flex: 1;
+  position: relative;
+  border-radius: var(--br-8xs);
+  max-width: 100%;
+  overflow: hidden;
+  object-fit: cover;
+  min-width: 247px;
+}
+.societyEducationHeader {
+  align-self: stretch;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: flex-start;
+  gap: var(--gap-30xl);
+  max-width: 100%;
+}
+.subjectExpandIcon {
+  width: 809px;
+  flex-direction: column;
+  align-items: flex-start;
+  padding: var(--padding-11xs) 0 0;
+  box-sizing: border-box;
+  min-width: 809px;
+  margin-left: -49px;
+}
+.frameParent,
+.subjectExpandIcon,
+.subjectMatterExpLink {
+  display: flex;
+  justify-content: flex-start;
+  max-width: 100%;
+}
+.frameParent {
+  align-self: stretch;
+  flex-direction: row;
+  align-items: flex-start;
+  row-gap: 20px;
+  font-size: var(--font-size-31xl);
+}
+.subjectMatterExpLink {
+  width: 1720px;
+  flex-direction: column;
+  align-items: flex-end;
+  gap: var(--gap-65xl);
+}
+.societyForFutureLink {
+  width: 1896px;
+  display: flex;
+  flex-direction: row;
+  align-items: flex-start;
+  justify-content: center;
+  padding: 0 var(--padding-xl) var(--padding-22xl);
+  box-sizing: border-box;
+  max-width: 100%;
+  text-align: left;
+  font-size: var(--font-size-6xl);
+  color: var(--color-darkblue);
+  font-family: var(--font-inter);
+}
+@media screen and (max-width: 1700px) {
+  .subjectExpandIcon {
+    flex: 1;
+    margin-left: 0;
+  }
+  .frameParent {
+    flex-wrap: wrap;
+  }
+}
+@media screen and (max-width: 1325px) {
+  .societyForFutureLink {
+    padding-bottom: var(--padding-8xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 900px) {
+  .backgroundshadow {
+    min-width: 100%;
+  }
+  .backgroundshadow1,
+  .backgroundshadow2 {
+    gap: var(--gap-base);
+    min-width: 100%;
+  }
+  .heading2 {
+    font-size: var(--font-size-21xl);
+    line-height: 52px;
+  }
+  .empowermentButton {
+    flex: 1;
+    min-width: 100%;
+  }
+  .frameContainer {
+    flex-wrap: wrap;
+  }
+  .readMoreButton {
+    flex-wrap: wrap;
+    gap: var(--gap-3xl);
+  }
+  .frameGroup {
+    gap: var(--gap-25xl);
+  }
+  .heading2AFewWordsAboutParent {
+    min-width: 100%;
+  }
+  .aboutImg02pngWrapper {
+    padding-top: var(--padding-11xs);
+    box-sizing: border-box;
+  }
+  .societyEducationHeader {
+    flex-wrap: wrap;
+  }
+  .subjectExpandIcon {
+    min-width: 100%;
+  }
+  .subjectMatterExpLink {
+    gap: var(--gap-23xl);
+  }
+  .societyForFutureLink {
+    padding-bottom: var(--padding-xl);
+    box-sizing: border-box;
+  }
+}
+@media screen and (max-width: 450px) {
+  .heading5 {
+    font-size: var(--font-size-xl);
+    line-height: 30px;
+  }
+  .globalSocietyVedasLink {
+    flex-wrap: wrap;
+  }
+  .heading51 {
+    font-size: var(--font-size-xl);
+    line-height: 30px;
+  }
+  .sveIcon4pngParent {
+    flex-wrap: wrap;
+  }
+  .heading52 {
+    font-size: var(--font-size-xl);
+    line-height: 30px;
+  }
+  .heading2 {
+    font-size: var(--font-size-11xl);
+    line-height: 39px;
+  }
+  .frameGroup {
+    gap: var(--gap-3xl);
+  }
+  .societyEducationHeader {
+    gap: var(--gap-5xl);
+  }
+  .subjectMatterExpLink {
+    gap: var(--gap-2xl);
+  }
+}
